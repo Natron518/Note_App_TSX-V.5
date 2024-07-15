@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# Notize App Version TSX 5.0
+###### Developer:  [Nathalie Rodriguez](https://github.com/Natron518)
+Eine einfache Notizen-App, erstellt mit JavaScript, React Native, Expo als Schulprojekt.
+Ich plane, die Notize App in Zukunft weiter zu verbessern, indem ich zusätzliche Funktionen hinzufüge und die Benutzeroberfläche optimiere.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Errors Infos
+Dieses Projekt könnte Fehler haben oder manche Funktionen könnten nicht wie erwartet funktionieren. Bitte melden Sie Probleme oder Vorschläge, indem Sie ein Issue machen.
 
-## Get started
+## Funktionen
+- Notizen erstellen: Erstellen und speichern Sie neue Notizen.
+- Notizen anzeigen: Anzeigen der gespeicherten Notizen in einer Liste.
+- Notizen bearbeiten: Bearbeiten Sie vorhandene Notizen.
+- Notizen löschen: Löschen Sie nicht mehr benötigte Notizen.
 
-1. Install dependencies
+## Installation
+Um dieses Projekt lokal auszuführen, bitte folgen diese Prozess.
 
-   ```bash
-   npm install
-   ```
+- Repository klonen
+  git clone git@github.com:Natron518/Note_App_TSX-V.5.git
 
-2. Start the app
+- Projektverzeichnis wechseln:
+  cd Note_App_TSX-V.5
 
-   ```bash
-    npx expo start
-   ```
+- Abhängigkeiten installieren:
+  npm install
+  
+- App starten: 
+  * SFür Android: npx react-native run-android
+  * Für iOS: npx react-native run-ios
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+##  Vorschläge
+Vorschläge und Verbesserungen sind willkommen!
+Einfach ein Issue öffnen oder eine Pull-Request senden.
